@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: hello
 ---
 
+Notes about anything and potentially...everything.
